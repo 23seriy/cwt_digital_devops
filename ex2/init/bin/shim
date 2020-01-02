@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+export NODE_PATH=/Users/alonofek/src/cwt-devops-exercise/init/lib/node_modules
+export NPM_CONFIG_PREFIX=/Users/alonofek/src/cwt-devops-exercise/init
+export npm_config_prefix=/Users/alonofek/src/cwt-devops-exercise/init
+exec init/bin/node "$@"
