@@ -10,14 +10,17 @@ Below are the instructions of how to build, run and use this service.
 ### Prerequisites
 
 #### Source 
-Clone this repository into any location
+Clone this repository into any location<br>
+Uee servers 1 IP: 10.200.81.129 as the CI Host <BR>
+User server 2 IP: 10.200.81.131 as the target deploymewnt <BR>
+
 
 #### Mongo DB
 The users service works with a mongo DB to store its users.<BR>
 **Database name**: devops-exercise<BR>
 **Collection name**: users<BR>
  
-  `Run mongodb docker` (use defalt Mongo docker image)
+  
 
 ### Build
 
