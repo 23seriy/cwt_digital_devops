@@ -19,8 +19,6 @@ User server 2 IP: 10.200.81.131 as the target deploymewnt <BR>
 The users service works with a mongo DB to store its users.<BR>
 **Database name**: devops-exercise<BR>
 **Collection name**: users<BR>
- 
-  
 
 ### Build
 
@@ -87,6 +85,9 @@ The users service works with a mongo DB to store its users.<BR>
 ## The Exercise
 
 Your goal is simple - build a full build, deploy and monitor pipeline. 
+User Docker, Ansible, Jenkins whenever applicable 
+
+You have few steps: 
 
 We can look at the pipline as consisting of three stages:
 
