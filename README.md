@@ -11,5 +11,3 @@ In order to workout please use the below 2 servers:
 exam-01 - IP: 10.200.81.129
 exam-02 - IP: 10.200.81.131
 User: devops
-Pass: password
-
