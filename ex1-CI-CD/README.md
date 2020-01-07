@@ -26,7 +26,7 @@ The users service works with a mongo DB to store its users.<BR>
 
 #### Environment Variables (must be set before start)
 
-* MONGO_URI - uri of the mongo DB
+* MONGO_URI - uri of the mongo DB ('MONGO_URI='mongodb://localhost:27017' -- for example)
 
 ### Run
    
