@@ -141,10 +141,11 @@ Continue to CD as defined above.
 
 ### References 
 
-* Jenkins: 
-* https://hub.docker.com/r/eeacms/jenkins-master/
-
+* Jenkins - https://hub.docker.com/r/eeacms/jenkins-master/
+* Docker repository - https://docs.docker.com/registry/deploying/
+***** Note - you need to modify the local docker daemon.json file to allow local push  
+  
 
 **GOOD LUCK!**
 
-**The ClimaCell Team**
+**The Autobots Team :-)**
