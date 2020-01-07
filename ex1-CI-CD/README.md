@@ -85,7 +85,7 @@ The users service works with a mongo DB to store its users.<BR>
 ## The Exercise
 
 Your goal is simple - build a full build, deploy and monitor pipeline. 
-User Docker, Ansible, Jenkins whenever applicable 
+Use Docker, Ansible, Jenkins whenever applicable 
 
 You have few steps: 
 
