@@ -8,6 +8,8 @@ In this repo you'll find 3 exercises. Please clone the repo and start implemtnti
 
 In order to workout please use the below 2 servers: 
 
-exam-01 - IP: 10.200.81.129
-exam-02 - IP: 10.200.81.131
+exam-01 - IP: 10.200.81.129 
+
+exam-02 - IP: 10.200.81.131 
+
 User: devops
