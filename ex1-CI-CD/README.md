@@ -12,7 +12,7 @@ Below are the instructions of how to build, run and use this service.
 #### Source 
 Clone this repository into any location<br>
 Uee servers 1 IP: 10.200.81.129 as the CI Host <BR>
-User server 2 IP: 10.200.81.131 as the target deploymewnt <BR>
+User server 2 IP: 10.200.81.131 as the target deployment <BR>
 
 
 #### Mongo DB
@@ -89,7 +89,7 @@ Use Docker, Ansible, Jenkins whenever applicable
 
 You have few steps: 
 
-We can look at the pipline as consisting of three stages:
+We can look at the pipeline as consisting of three stages:
 
 * Continuous Integration
 * Continuous Deployment
